@@ -18,7 +18,7 @@ The main goal of this project is to showcase:
 
 ## 🧱 System Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture]
 
 ### Overview
 - All services run on **one Ubuntu VM**
@@ -43,7 +43,8 @@ The main goal of this project is to showcase:
 
 ## 🔁 CI/CD Pipeline Flow
 
-![Pipeline Flow](docs/pipeline-flow.png)
+![Pipeline Flow]
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/2b9804ef-8d06-45c3-a650-f28aedaa28ad" />
 
 ### Pipeline Stages
 1. GitHub source checkout
@@ -59,7 +60,8 @@ The main goal of this project is to showcase:
 ## ⚙️ Jenkins Configuration
 
 ### Jenkins Dashboard
-![Jenkins Dashboard](docs/jenkins-dashboard.png)
+![Jenkins Dashboard]
+<img width="688" height="494" alt="image" src="https://github.com/user-attachments/assets/6576ee37-bd64-4ac8-93b8-f203e73b9fb6" />
 
 - Jenkins runs inside Docker
 - SSH agent used for builds
@@ -70,7 +72,9 @@ The main goal of this project is to showcase:
 
 ## 🚀 Pipeline Execution Result
 
-![Pipeline Success](docs/pipeline-success.png)
+![Pipeline Success] 
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/2b9804ef-8d06-45c3-a650-f28aedaa28ad" />
+
 
 ✔️ All pipeline stages executed successfully  
 ✔️ Security scans completed  
@@ -80,7 +84,7 @@ The main goal of this project is to showcase:
 
 ## 🧠 SonarQube Code Analysis
 
-![SonarQube Report](docs/sonarqube-report.png)
+![SonarQube Report] https://camo.githubusercontent.com/a7aa184438f23f20312047b97f2c534f5d16deb8295eaa1841bce74461e0391b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3730302f312a667257446f52312d39327330365538796b31346754512e706e67
 
 - Static code analysis
 - Detection of bugs, vulnerabilities, and code smells
@@ -90,7 +94,7 @@ The main goal of this project is to showcase:
 
 ## 🛡️ Trivy Vulnerability Scan
 
-![Trivy Report](docs/trivy-report.png)
+![Trivy Report]
 
 - Docker images scanned for vulnerabilities
 - HIGH and CRITICAL severity checks
@@ -100,7 +104,7 @@ The main goal of this project is to showcase:
 
 ## 🐳 Docker Deployment Verification
 
-![Docker Containers](docs/docker-containers.png)
+![Docker Containers]
 
 - Frontend and backend containers running
 - Jenkins, SonarQube, PostgreSQL containers active
@@ -111,7 +115,7 @@ The main goal of this project is to showcase:
 ## 🌐 Application Access
 
 ### Frontend
-![Frontend](docs/app-frontend.png)
+![Frontend](https://camo.githubusercontent.com/a29711ea0ca71a1dfaaa5ab9d676270819ae0f4c9333a4922b20629a5f4b82df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3730302f312a62547a6b474a304541587556503451447154423553672e706e67)
 
 Accessible at:
 http://localhost:5173
@@ -169,5 +173,6 @@ Copy code
 
 **Ritesh Kolhe**  
 Aspiring DevOps / Cloud Engineer  
+
 
 
