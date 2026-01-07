@@ -18,7 +18,6 @@ The main goal of this project is to showcase:
 
 ## 🧱 System Architecture
 
-![Architecture]
 
 ### Overview
 - All services run on **one Ubuntu VM**
@@ -43,7 +42,7 @@ The main goal of this project is to showcase:
 
 ## 🔁 CI/CD Pipeline Flow
 
-![Pipeline Flow]
+
 <img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/2b9804ef-8d06-45c3-a650-f28aedaa28ad" />
 
 ### Pipeline Stages
@@ -60,7 +59,7 @@ The main goal of this project is to showcase:
 ## ⚙️ Jenkins Configuration
 
 ### Jenkins Dashboard
-![Jenkins Dashboard]
+
 <img width="688" height="494" alt="image" src="https://github.com/user-attachments/assets/6576ee37-bd64-4ac8-93b8-f203e73b9fb6" />
 
 - Jenkins runs inside Docker
@@ -72,7 +71,7 @@ The main goal of this project is to showcase:
 
 ## 🚀 Pipeline Execution Result
 
-![Pipeline Success] 
+
 <img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/2b9804ef-8d06-45c3-a650-f28aedaa28ad" />
 
 
@@ -84,7 +83,8 @@ The main goal of this project is to showcase:
 
 ## 🧠 SonarQube Code Analysis
 
-![SonarQube Report] https://camo.githubusercontent.com/a7aa184438f23f20312047b97f2c534f5d16deb8295eaa1841bce74461e0391b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3730302f312a667257446f52312d39327330365538796b31346754512e706e67
+<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/d97988c9-fae3-4fca-94c1-9b1a75bceaaf" />
+
 
 - Static code analysis
 - Detection of bugs, vulnerabilities, and code smells
@@ -94,7 +94,7 @@ The main goal of this project is to showcase:
 
 ## 🛡️ Trivy Vulnerability Scan
 
-![Trivy Report]
+
 
 - Docker images scanned for vulnerabilities
 - HIGH and CRITICAL severity checks
@@ -104,7 +104,7 @@ The main goal of this project is to showcase:
 
 ## 🐳 Docker Deployment Verification
 
-![Docker Containers]
+
 
 - Frontend and backend containers running
 - Jenkins, SonarQube, PostgreSQL containers active
@@ -115,7 +115,7 @@ The main goal of this project is to showcase:
 ## 🌐 Application Access
 
 ### Frontend
-![Frontend](https://camo.githubusercontent.com/a29711ea0ca71a1dfaaa5ab9d676270819ae0f4c9333a4922b20629a5f4b82df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3730302f312a62547a6b474a304541587556503451447154423553672e706e67)
+(https://camo.githubusercontent.com/a29711ea0ca71a1dfaaa5ab9d676270819ae0f4c9333a4922b20629a5f4b82df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3730302f312a62547a6b474a304541587556503451447154423553672e706e67)
 
 Accessible at:
 http://localhost:5173
@@ -124,7 +124,7 @@ yaml
 Copy code
 
 ### Backend
-![Backend](https://camo.githubusercontent.com/cc28bc75a1f908900895ce110aa5ad31e0b3b8c9e1280c5f86f42afc2233703c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3633382f312a4a314270674f366c6a476d6a4a774849464f67704f512e706e67)
+(https://camo.githubusercontent.com/cc28bc75a1f908900895ce110aa5ad31e0b3b8c9e1280c5f86f42afc2233703c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3633382f312a4a314270674f366c6a476d6a4a774849464f67704f512e706e67)
 
 Accessible at:
 http://localhost:5000
@@ -173,6 +173,7 @@ Copy code
 
 **Ritesh Kolhe**  
 Aspiring DevOps / Cloud Engineer  
+
 
 
 
