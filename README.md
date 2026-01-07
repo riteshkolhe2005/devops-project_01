@@ -115,7 +115,8 @@ The main goal of this project is to showcase:
 ## 🌐 Application Access
 
 ### Frontend
-(https://camo.githubusercontent.com/a29711ea0ca71a1dfaaa5ab9d676270819ae0f4c9333a4922b20629a5f4b82df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3730302f312a62547a6b474a304541587556503451447154423553672e706e67)
+<img width="700" height="392" alt="image" src="https://github.com/user-attachments/assets/7735195f-73b4-4693-ae3b-93b02a1b7aaf" />
+
 
 Accessible at:
 http://localhost:5173
@@ -124,7 +125,8 @@ yaml
 Copy code
 
 ### Backend
-(https://camo.githubusercontent.com/cc28bc75a1f908900895ce110aa5ad31e0b3b8c9e1280c5f86f42afc2233703c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3633382f312a4a314270674f366c6a476d6a4a774849464f67704f512e706e67)
+<img width="638" height="377" alt="image" src="https://github.com/user-attachments/assets/93e32ecc-4d85-4238-ac91-e77c7cbbf659" />
+
 
 Accessible at:
 http://localhost:5000
@@ -173,6 +175,7 @@ Copy code
 
 **Ritesh Kolhe**  
 Aspiring DevOps / Cloud Engineer  
+
 
 
 
