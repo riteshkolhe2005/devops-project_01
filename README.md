@@ -120,7 +120,7 @@ yaml
 Copy code
 
 ### Backend
-![Backend](docs/app-backend.png)
+![Backend][(docs/app-backend.png)](https://camo.githubusercontent.com/cc28bc75a1f908900895ce110aa5ad31e0b3b8c9e1280c5f86f42afc2233703c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3633382f312a4a314270674f366c6a476d6a4a774849464f67704f512e706e67)
 
 Accessible at:
 http://localhost:5000
@@ -169,3 +169,4 @@ Copy code
 
 **Ritesh Kolhe**  
 Aspiring DevOps / Cloud Engineer  
+
